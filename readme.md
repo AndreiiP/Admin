@@ -3,9 +3,9 @@
     - sql
     - src  
 #### Admin
-> Admin (login: admin@gmail.com  pass: 111111)
+>  (login: admin@gmail.com  pass: 111111)
 #### User
-> User  (login: zz@zz.com  pass: 111111)
+>  (login: zz@zz.com  pass: 111111)
 #### Админ может:
 	Добавлять пользователей (Отправляется пись с логином и паролем на email).
 	Удалять пользователей(мягкое удаление).
