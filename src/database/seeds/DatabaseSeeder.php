@@ -11,6 +11,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        factory('App\Models\Hotel', 50)->create();
+        factory('App\Models\Room', 50)->create();
     }
 }
