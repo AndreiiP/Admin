@@ -1,0 +1,28 @@
+.error {
+    color: red;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+.headline text-yellow {
+    color: red;
+}
+.wraper-404 {
+   background-color: #ecf0f5;
+    margin-left: 0px !important;
+}
+
+.login-links {
+    padding-right: 50px;
+}
+
+.login-links a{
+    padding: 2px;
+}
+
+.btn-centre {
+    margin: 0 auto;
+    display: grid;
+    width: 70px;
+}
